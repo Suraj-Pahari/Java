@@ -1,3 +1,3 @@
 <h1 align ="center">Java</h1>
-<div align="center"><img src="java_logo.png" /></div>.
+<img align="center" alt="html5" width="35" src="java_logo.png">
 Repository for college assignments and labwork of  java.
