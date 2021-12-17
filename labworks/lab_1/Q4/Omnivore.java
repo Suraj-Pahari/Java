@@ -20,6 +20,7 @@ class Omnivore implements Herbivore ,Carnivore{
         Herbivore.super.print();
         Carnivore.super.print();
     }
+    
     public static void main(String [] args){
         Omnivore o1 = new Omnivore();
         o1.print();
